@@ -1,0 +1,24 @@
+{
+  "name": "isaiahsantillan-recursion",
+  "version": "1.0.0",
+  "description": "recursion odin project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-learning-institute/isaiahsantillan-recursion.git"
+  },
+  "author": "Isaiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agile-learning-institute/isaiahsantillan-recursion/issues"
+  },
+  "homepage": "https://github.com/agile-learning-institute/isaiahsantillan-recursion#readme",
+  "devDependencies": {
+    "eslint": "9.27.0"
+  }
+}
