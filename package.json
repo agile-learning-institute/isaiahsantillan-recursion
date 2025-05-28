@@ -20,5 +20,8 @@
   "homepage": "https://github.com/agile-learning-institute/isaiahsantillan-recursion#readme",
   "devDependencies": {
     "eslint": "9.27.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
